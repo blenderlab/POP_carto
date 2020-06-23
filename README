@@ -2,7 +2,7 @@
 
 Simple Python exercice to use OpenWeatherMap API
 
-objectives : 
+Objectives : 
   * manage an API
   * use external configuration file
   * use external file
