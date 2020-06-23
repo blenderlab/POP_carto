@@ -1,0 +1,20 @@
+## POP Carto ##
+
+Simple Python exercice to use OpenWeatherMap API
+
+objectives : 
+  * manage an API
+  * use external configuration file
+  * use external file
+  * manage functions definitions & usage
+  * parameters
+  * simple loops
+  * dictionaries
+  * arrays
+
+
+### fichier config.py 
+apikey=''
+lang='fr'
+name='Thomas HOCEDEZ'
+
